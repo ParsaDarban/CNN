@@ -1,3 +1,6 @@
 The VGG-16 model is a convolutional neural network (CNN) architecture that was proposed by the Visual Geometry Group (VGG) at the University of Oxford. It is characterized by its depth, consisting of 16 layers, including 13 convolutional layers and 3 fully connected layers. VGG-16 is renowned for its simplicity and effectiveness, as well as its ability to achieve strong performance on various computer vision tasks, including image classification and object recognition. The model’s architecture features a stack of convolutional layers followed by max-pooling layers, with progressively increasing depth. This design enables the model to learn intricate hierarchical representations of visual features, leading to robust and accurate predictions. Despite its simplicity compared to more recent architectures, VGG-16 remains a popular choice for many deep learning applications due to its versatility and excellent performance.
 
 In this project, we explore convolutional neural networks (CNNs) and implement the VGG16 model. The model is trained and tested on the CIFAR-10 dataset and classify the data accordingly.
+
+You can find the complete information on data preprocessing, models, and their evaluation in the file CNN_VGG16.pdf, which is written in English.
+
